@@ -3,7 +3,7 @@ package Controlador;
 
 /**
  *
- * @author Belén
+ * @author Carlos Tule
  */
 
 import Modelo.DAOProducto;

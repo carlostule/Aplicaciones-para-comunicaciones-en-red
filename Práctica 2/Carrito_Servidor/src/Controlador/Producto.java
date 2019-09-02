@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Belén
+ * @author Carlos Tule
  */
 
 //Serializando el objeto

@@ -2,7 +2,7 @@ package Modelo;
 
 /**
  *
- * @author Belén
+ * @author Carlos Tule
  */
 
 import Controlador.Pedido;

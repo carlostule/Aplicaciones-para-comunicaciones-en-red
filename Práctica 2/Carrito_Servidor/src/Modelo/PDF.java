@@ -3,18 +3,16 @@ package Modelo;
 
 /**
  *
- * @author Belén
+ * @author Carlos Tule
  */
 import Controlador.Pedido;
 import Controlador.Producto;
 import com.itextpdf.text.BaseColor;
 import com.itextpdf.text.Chunk;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.*;
  
 import com.itextpdf.text.Document;
-import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Element;
 import com.itextpdf.text.FontFactory;
 import com.itextpdf.text.Paragraph;
@@ -26,9 +24,6 @@ import com.itextpdf.text.Image;
 import java.awt.Font;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.swing.ImageIcon;
 
 public class PDF {
     

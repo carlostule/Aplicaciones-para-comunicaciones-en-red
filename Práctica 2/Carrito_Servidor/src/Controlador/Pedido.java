@@ -2,7 +2,7 @@ package Controlador;
 
 /**
  *
- * @author Belén
+ * @author Carlos Tule
  */
 public class Pedido {
 
