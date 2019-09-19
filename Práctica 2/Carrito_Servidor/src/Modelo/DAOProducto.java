@@ -22,23 +22,23 @@ public class DAOProducto {
     ArrayList<String> P1 = new ArrayList(Arrays.asList("bala1","Balancín","Balancín para niño","acme","300.66","7",path.trim() + "balancin.jpg"));
     ArrayList<String> P2 = new ArrayList(Arrays.asList("bote2","Botella","Botella para vino","Desconocido","7.21","47",path.trim() + "botella.jpg"));
     ArrayList<String> P3 = new ArrayList(Arrays.asList("cam3","Cama","Cama matrimonial base de madera","Troncoso","1429.32","10",path.trim() + "cama.jpeg"));
-    ArrayList<String> P4 = new ArrayList(Arrays.asList("cami4","Camisa","Camisa para hombre","Zara","129.87","20",path.trim() + "camisa.jpeg"));
-    ArrayList<String> P5 = new ArrayList(Arrays.asList("cham5","Chamarra","Chamarra para hombre","Zara","429.99","12",path.trim() + "chamarra.jpeg"));
-    ArrayList<String> P6 = new ArrayList(Arrays.asList("comp6","Computadora","Computadora de escritorio","Mac","17429.32","15",path.trim() + "computadora.jpeg"));
+    ArrayList<String> P4 = new ArrayList(Arrays.asList("cami4","Camisa","Camisa para hombre","Zara","129.87","20",path.trim() + "camisa.jpg"));
+    ArrayList<String> P5 = new ArrayList(Arrays.asList("cham5","Chamarra","Chamarra para hombre","Zara","429.99","12",path.trim() + "chamarra.jpg"));
+    ArrayList<String> P6 = new ArrayList(Arrays.asList("comp6","Computadora","Computadora de escritorio","Mac","17429.32","15",path.trim() + "computadora.jpg"));
     ArrayList<String> P7 = new ArrayList(Arrays.asList("cort7","Cortina","Cortina de 2x2m","Cortinas Guadalajara","2999.99","10",path.trim() + "cortina.jpeg"));
-    ArrayList<String> P8 = new ArrayList(Arrays.asList("estu8","Estufa","Estufa gris claro","Mabe","4998","5",path.trim() + "estufa.jpeg"));
-    ArrayList<String> P9 = new ArrayList(Arrays.asList("lava9","Lavadora","Lavadora gris oscuro","Whirlpool","5997","5",path.trim() + "lavadora.jpeg"));
-    ArrayList<String> P10 = new ArrayList(Arrays.asList("refr10","Refrigerador","Refrigerador gris oscuro","mabe","5000","10",path.trim() + "refrigerador.jpeg"));
-    ArrayList<String> P11 = new ArrayList(Arrays.asList("pant11","Pantalon","Pantalon de vestir gris claro","Zara","250","50",path.trim() + "pantalon.jpeg"));
-    ArrayList<String> P12 = new ArrayList(Arrays.asList("sil12","Sillon","Sillon rojo","Troncoso","1429","60",path.trim() + "sillon.jpeg"));
-    ArrayList<String> P13 = new ArrayList(Arrays.asList("pro13","Producto de limpieza","Pino de 10litros","Pinol","1429.32","10",path.trim() + "pinol.jpeg"));
-    ArrayList<String> P14 = new ArrayList(Arrays.asList("del14","Delineador","Delineador para ojos","Kejel Jabibe","150","37",path.trim() + "DelineadorOjos.jpeg"));
-    ArrayList<String> P15 = new ArrayList(Arrays.asList("lab15","Labial","Labial Indeleble rosa claro","Kejel Jabibe","200","40",path.trim() + "labial-indeleble.jpeg"));
-    ArrayList<String> P16 = new ArrayList(Arrays.asList("som16","Sombras para ojos","Set de Sombras para ojos","Kejel Jabibe","700","28",path.trim() + "PaletasSombras.jpeg"));
-    ArrayList<String> P17 = new ArrayList(Arrays.asList("esco17","Escoba","Escoba","Sabilo","70","22",path.trim() + "Escoba.jpeg"));
-    ArrayList<String> P18 = new ArrayList(Arrays.asList("trap18","Trapeador","Trapeador","Sabilo","90","10",path.trim() + "Trapeador.jpeg"));
-    ArrayList<String> P19 = new ArrayList(Arrays.asList("sar19","Sarten","Sarten","La Vasconia","1000","30",path.trim() + "sarten.jpeg"));
-    ArrayList<String> P20 = new ArrayList(Arrays.asList("oll20","Olla Express","Olla Express","La Vasconia","32","10",path.trim() + "ollaExpress.jpeg"));
+    ArrayList<String> P8 = new ArrayList(Arrays.asList("estu8","Estufa","Estufa gris claro","Mabe","4998","5",path.trim() + "estufa.jpg"));
+    ArrayList<String> P9 = new ArrayList(Arrays.asList("lava9","Lavadora","Lavadora gris oscuro","Whirlpool","5997","5",path.trim() + "lavadora.jpg"));
+    ArrayList<String> P10 = new ArrayList(Arrays.asList("refr10","Refrigerador","Refrigerador gris oscuro","mabe","5000","10",path.trim() + "refrigerador.jpg"));
+    ArrayList<String> P11 = new ArrayList(Arrays.asList("pant11","Pantalon","Pantalon de vestir gris claro","Zara","250","50",path.trim() + "pantalon.jpg"));
+    ArrayList<String> P12 = new ArrayList(Arrays.asList("sil12","Sillon","Sillon rojo","Troncoso","1429","60",path.trim() + "sillon.jpg"));
+    ArrayList<String> P13 = new ArrayList(Arrays.asList("pro13","Producto de limpieza","Pino de 10litros","Pinol","1429.32","10",path.trim() + "pinol.jpg"));
+    ArrayList<String> P14 = new ArrayList(Arrays.asList("del14","Delineador","Delineador para ojos","Kejel Jabibe","150","37",path.trim() + "DelineadorOjos.jpg"));
+    ArrayList<String> P15 = new ArrayList(Arrays.asList("lab15","Labial","Labial Indeleble rosa claro","Kejel Jabibe","200","40",path.trim() + "labial-indeleble.jpg"));
+    ArrayList<String> P16 = new ArrayList(Arrays.asList("som16","Sombras para ojos","Set de Sombras para ojos","Kejel Jabibe","700","28",path.trim() + "PaletasSombras.jpg"));
+    ArrayList<String> P17 = new ArrayList(Arrays.asList("esco17","Escoba","Escoba","Sabilo","70","22",path.trim() + "Escoba.jpg"));
+    ArrayList<String> P18 = new ArrayList(Arrays.asList("trap18","Trapeador","Trapeador","Sabilo","90","10",path.trim() + "Trapeador.jpg"));
+    ArrayList<String> P19 = new ArrayList(Arrays.asList("sar19","Sarten","Sarten","La Vasconia","1000","30",path.trim() + "sarten.jpg"));
+    ArrayList<String> P20 = new ArrayList(Arrays.asList("oll20","Olla Express","Olla Express","La Vasconia","32","10",path.trim() + "ollaExpress.jpg"));
     
     
     public DAOProducto(){}    
